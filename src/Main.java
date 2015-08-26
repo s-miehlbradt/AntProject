@@ -18,7 +18,13 @@ public class Main {
  public String val18 = "CONSTANT";
  public String val19 = "CONSTANT";
  public String val20 = "CONSTANT";
- public String val20 = "CONSTANT";
+ public String val21 = "CONSTANT";
+ public String val22 = "CONSTANT";
+ public String val23 = "CONSTANT";
+ public String val24 = "CONSTANT";
+ public String val25 = "CONSTANT";
+ public String val26 = "CONSTANT";
+ 
  
  
  public String longval1 = "ABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZ";
